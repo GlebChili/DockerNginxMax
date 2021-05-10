@@ -3,7 +3,7 @@
 
 # DockerNginxMax
 
-Yet another containerized build of NGINX with almost every module enabled. [Docker Hub link](https://hub.docker.com/repository/docker/glebkrasilich/docker_nginx_max).
+Yet another containerized build of NGINX with almost every module enabled. [Docker Hub link](https://hub.docker.com/r/glebkrasilich/docker_nginx_max).
 
 ## Usage
 
