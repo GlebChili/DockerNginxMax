@@ -1,6 +1,9 @@
+[![Docker build status badge and link](https://img.shields.io/docker/cloud/build/glebkrasilich/docker_nginx_max?style=for-the-badge)](https://docs.docker.com/storage/bind-mounts/)
+[![Latest Successful Build Version badge](https://img.shields.io/docker/v/glebkrasilich/docker_nginx_max?label=Latest%20Successful%20Build%20Version&sort=date&style=for-the-badge)](https://docs.docker.com/storage/bind-mounts/)
+
 # DockerNginxMax
 
-Yet another containerized build of NGINX with almost every module enabled.
+Yet another containerized build of NGINX with almost every module enabled. [Docker Hub link](https://hub.docker.com/repository/docker/glebkrasilich/docker_nginx_max).
 
 ## Usage
 
