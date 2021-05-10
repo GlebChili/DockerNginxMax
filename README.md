@@ -12,7 +12,7 @@ include /configs/*.conf;
 
 ```
 
-So one just should mount a folder with configuration files to `/configs` in the container.
+So one just should [mount](https://docs.docker.com/storage/bind-mounts/) a folder with configuration files to `/configs` in the container.
 
 ## Enabled modules
 
