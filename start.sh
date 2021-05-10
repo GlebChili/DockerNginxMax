@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "$( cat NOTICE )"
+
 echo "Starting NGINX..."
 
 /usr/local/nginx/nginx -c /app/nginx.conf

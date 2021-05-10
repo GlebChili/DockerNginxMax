@@ -68,6 +68,7 @@ WORKDIR /app
 
 COPY ./nginx.conf .
 COPY ./start.sh .
+COPY ./NOTICE .
 
 COPY --from=build /usr/local/nginx /usr/local/nginx
 
